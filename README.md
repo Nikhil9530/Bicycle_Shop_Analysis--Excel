@@ -1,6 +1,6 @@
 # 📊 Sales Data Analysis Dashboard (Excel)
 
-![Dashboard](PFD.png)
+![Dashboard](Bicycle.jpeg)
 
 ## 📌 Project Overview
 
@@ -62,8 +62,8 @@ This project demonstrates my ability to clean, analyze, and visualize data using
 
 ## 🎥 Project Video
 
-[![Watch Presentation](PFD.png)](https://www.youtube.com/watch?v=BBwEL2rhhg8&list=PLez87R8SER3aBZfo-aopyfzUhIbkBJ8dC&index=5)
-[![Watch Video](PFD.png)](https://youtu.be/No3GL8blB-E?si=e5eDojJxA98taOzD)
+[![Watch Presentation](Bicycle.jpeg)](https://www.youtube.com/watch?v=BBwEL2rhhg8&list=PLez87R8SER3aBZfo-aopyfzUhIbkBJ8dC&index=5)
+[![Watch Video](Bicycle.jpeg)](https://youtu.be/No3GL8blB-E?si=e5eDojJxA98taOzD)
 
 ## 🔗 Future Improvements
 
